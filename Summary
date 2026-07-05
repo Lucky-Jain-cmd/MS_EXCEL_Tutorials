@@ -1,0 +1,9 @@
+*********************************************************************Summary*********************************************************************************************************************
+_________________________________________________________________________________________________________________________________________________________________________________________________
+# Microsoft Excel is a spreadsheet application used to organize, calculate, analyze, and visualize data.
+# A Workbook is an Excel file (.xlsx), and it can contain multiple Worksheets.
+# A Worksheet is made up of Rows (horizontal) and Columns (vertical).
+# A Cell is the intersection of a row and a column (e.g., B5).
+# A Range is a group of cells (e.g., A1:C5).
+# Excel's Calculation Engine stores formulas and recalculates results automatically whenever referenced data changes.
+# Key interface elements include the Ribbon, Formula Bar, Name Box, Quick Access Toolbar, and Status Bar.
