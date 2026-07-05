@@ -1,0 +1,48 @@
+Interview Questions
+Q1 What is Excel?
+
+Answer
+
+Excel is a spreadsheet software used for organizing, analyzing, storing, and calculating data.
+
+Q2 What is Workbook?
+
+A Workbook is an Excel file that contains one or more worksheets.
+
+Q3 What is Worksheet?
+
+A worksheet is a single spreadsheet page inside a workbook.
+
+Q4 Maximum Rows?
+
+Answer
+
+1,048,576
+
+Q5 Maximum Columns?
+
+Answer
+
+16,384
+
+Q6 Last Column Name?
+
+Answer
+
+XFD
+
+Q7 What is Cell?
+
+Intersection of row and column.
+
+Q8 What is Range?
+
+Group of cells.
+
+Q9 What is Active Cell?
+
+Currently selected cell.
+
+Q10 What is Formula Bar?
+
+Used to enter or edit formulas.
